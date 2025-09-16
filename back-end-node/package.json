@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "react-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroSoaresss/fullstackopen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroSoaresss/fullstackopen/issues"
+  },
+  "homepage": "https://github.com/PedroSoaresss/fullstackopen#readme"
+}
